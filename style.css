@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/arlindinho.webp');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -79,9 +79,9 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
+    background: url('img/arlindinho.webp') top right no-repeat,
         url('img/arlindinho.webp') bottom left no-repeat;
-    background-size: 150px 150px;
+    background-size: 10u0px 100px;
     /* Ajuste o tamanho conforme necessário */
 }
 
