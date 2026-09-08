@@ -80,12 +80,12 @@ section {
     margin-top: 3rem;
     margin-bottom: 3rem;
     background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
-    background-size: 180px 180px;
+        url('img/arlindinho.webp') bottom left no-repeat;
+    background-size: 150px 150px;
     /* Ajuste o tamanho conforme necessário */
 }
 
-#Arlindo Cruz .container {
+# .container {
     display: flex;
     align-items: center;
     justify-content: center;
